@@ -1,14 +1,14 @@
 {
-  "name": "nest-js-starter",
+  "name": "nest-js-starter-package",
   "version": "1.0.0",
   "description": "A ready-made NestJS project with utilities and various facilities.",
   "author": "Joy Sarkar",
   "bin": {
-    "nest-js-starter": "bin/cli.js"
+    "nest-js-starter-package": "bin/cli.js"
   },
   "license": "UNLICENSED",
   "repository": {
-    "url": "git+https://github.com/JoySarkarBD/nest-js-starter.git"
+    "url": "git+https://github.com/JoySarkarBD/nest-js-starter-package.git"
   },
   "scripts": {
     "build": "nest build",
