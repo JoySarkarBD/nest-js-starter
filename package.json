@@ -5,6 +5,9 @@
   "author": "Joy Sarkar",
   "bin": "./bin/cli.js",
   "license": "UNLICENSED",
+  "repository": {
+    "url": "https://github.com/JoySarkarBD/nestjs-starter-project"
+  },
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
