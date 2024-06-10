@@ -2,8 +2,7 @@
   "name": "nestjs-starter-project",
   "version": "1.0.0",
   "description": "A ready-made NestJS project with utilities and various facilities.",
-  "author": "",
-  "private": true,
+  "author": "Joy Sarkar",
   "license": "UNLICENSED",
   "scripts": {
     "build": "nest build",
