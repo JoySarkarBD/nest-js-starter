@@ -1,6 +1,6 @@
 {
   "name": "nestjs-starter-project",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A ready-made NestJS project with utilities and various facilities.",
   "author": "Joy Sarkar",
   "bin": "./bin/cli.js",
