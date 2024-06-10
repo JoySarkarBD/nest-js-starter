@@ -13,10 +13,19 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+
+
 ## Installation
+To create a new project using
+
+```
+npx nestjs-starter-project folder-name
+```
 
 ```bash
 $ yarn install
+# or 
+$ npm install
 ```
 
 ## Running the app
@@ -24,12 +33,18 @@ $ yarn install
 ```bash
 # development
 $ yarn run start
+# or
+$ npm run start
 
 # watch mode
 $ yarn run start:dev
+# or
+$ npm run start:dev
 
 # production mode
 $ yarn run start:prod
+# or
+$ npm run start:prod
 ```
 
 ## Test
@@ -37,12 +52,18 @@ $ yarn run start:prod
 ```bash
 # unit tests
 $ yarn run test
+# or
+$ npm run test
 
 # e2e tests
 $ yarn run test:e2e
+# or
+$ npm run test:e2e
 
 # test coverage
 $ yarn run test:cov
+# or
+$ npm run test:cov
 ```
 
 ## Project Structure
