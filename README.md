@@ -45,3 +45,42 @@ $ yarn run test:e2e
 $ yarn run test:cov
 ```
 
+## Project Structure
+```
+Project-Root/
+|
+├── src
+│   ├── core-modules
+│   │   ├── interceptors
+│   │   │   └── response-interceptor
+│   │   │       ├── response-interceptor.spec.ts
+│   │   │       └── response-interceptor.ts
+|   |   |
+│   │   └── middlewares
+│   │       ├── auth.middleware.ts
+│   │       ├── cookie-parser.middleware.ts
+│   │       ├── cors.middleware.ts
+│   │       ├── helmet.middleware.ts
+│   │       ├── morgan.middleware.ts
+│   │       └── rate-limit.middleware.ts
+|   |
+│   ├── utils
+│   │   ├── validation-helper.ts
+│   │   └── bcrypt-utils.ts
+|   |
+│   ├── app.controller.ts
+│   ├── app.module.ts
+│   ├── app.service.ts
+│   └── main.ts
+│   
+├── test
+│   ├── app.e2e-spec.ts
+│   └── jest-e2e.json
+│   
+├── .env
+├── nest-cli.json
+├── package.json
+├── README.md
+├── tsconfig.build.json
+└── tsconfig.json
+```
