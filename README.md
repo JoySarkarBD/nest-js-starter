@@ -24,7 +24,7 @@
 
 
 ```
-npx nest-js-starter@latest folder-name
+npx nest-js-starter-package@latest folder-name
 ```
 
 ```bash
