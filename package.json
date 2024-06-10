@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A ready-made NestJS project with utilities and various facilities.",
   "author": "Joy Sarkar",
+  "bin": "./bin/cli/js",
   "license": "UNLICENSED",
   "scripts": {
     "build": "nest build",
