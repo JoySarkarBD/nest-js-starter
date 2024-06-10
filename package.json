@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "A ready-made NestJS project with utilities and various facilities.",
   "author": "Joy Sarkar",
+  "keywords": [
+    "NestJS",
+    "Starter",
+    "Utility",
+    "Framework",
+    "Node.js"
+  ],
   "bin": {
     "nest-js-starter-package": "bin/cli.js"
   },
