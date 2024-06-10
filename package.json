@@ -4,7 +4,7 @@
   "description": "A ready-made NestJS project with utilities and various facilities.",
   "author": "Joy Sarkar",
   "bin": {
-    "nestjs-starter-project": "bin/cli.js"
+    "nest-js-starter-project": "bin/cli.js"
   },
   "license": "UNLICENSED",
   "repository": {
