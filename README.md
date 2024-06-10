@@ -16,7 +16,12 @@
 
 
 ## Installation
-To create a new project using
+<div style="display: flex; align-items: center; justify-content:center;">
+ <img src="https://nestjs.com/img/logo-small.svg" width="20" alt="Nest Logo" />
+  <p style="margin: 10px; font-weight:500;">To create a new project using NEST-JS</p>
+  <img src="https://nestjs.com/img/logo-small.svg" width="20" alt="Nest Logo" />
+</div>
+
 
 ```
 npx nestjs-starter-project folder-name
